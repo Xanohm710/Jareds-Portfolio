@@ -14,14 +14,14 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTSANTS = {
     description:
-      "Full stack web and mobile junior developer with a knack of building applications with utmost efficiency. Strong background with working in teams willing to be an asset for an organization.",
+      "Hi, I'm Jared Young, a Jr Full Stack Web and Mobile Developer with a desire for building applications with utmost efficiency. Strong background working in teams and willing to be an asset to an organization.",
     highlights: {
       bullets: [
         "Full Stack web and mobile development",
         "Interactive Front End as per the design",
         "React and React Native",
-        "Redux for State Mnanagement",
-        "Managing database",
+        "Redux for State Management",
+        "Database Management",
         "Team Oriented",
       ],
       heading: "Here are a Few Highlights:",

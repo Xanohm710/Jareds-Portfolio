@@ -62,7 +62,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      I patronized Ehizeex and when He delivered, I honestly
+                      I patronized Jared and when He delivered, I honestly
                       fell in love with the project He is a very honest guy and
                       he delivers ontime.
                       <i className="fa fa-quote-right" />

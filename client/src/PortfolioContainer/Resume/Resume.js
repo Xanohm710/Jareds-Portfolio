@@ -76,7 +76,7 @@ const Resume = (props) => {
       title: "Github ",
       duration: { fromDate: "May 2022", toDate: "Present" },
       description:
-        "code hosting platform for version control and collaboration. (https://github.com/Xanohm710)",
+        "Code hosting platform for version control and collaboration. (https://github.com/Xanohm710)",
       subHeading:
         "Technologies Used:  Bootstrap, React, React Native, Mongo DB, Express Js, Node Js, Redux.",
     },
@@ -124,11 +124,11 @@ const Resume = (props) => {
         />
         <div className="experience-description">
           <span className="resume-description-text">
-          build, maintain, and repair overhead transmission, distribution, and underground distribution lines using approved standards          </span>
+          Build, maintain, and repair overhead transmission, distribution, and underground distribution lines using approved standards</span>
         </div>
         <div className="experience-description">
           <span className="resume-description-text">
-            - Work on wood, steel poles and towers up to 400 feet.
+            - Work on wood, steel poles, and towers up to 400 feet.
           </span>
           <br />
           <span className="resume-description-text">
@@ -136,7 +136,7 @@ const Resume = (props) => {
           </span>
           <br />
           <span className="resume-description-text">
-            - Conduct work outdoors in various types of weather in a safe manner for my coworkers and myself.
+            - Conduct work outdoors in various types of weather safely for my coworkers and me.
           </span>
           <br />
         </div>
@@ -180,15 +180,15 @@ const Resume = (props) => {
     <div className="resume-screen-container" key="interests">
       <ResumeHeading
         heading="Learning"
-        description=" The older I get the more I realize how priceless knowledge is in your day to day whether it be knowledge for making money or knowledge of life tricks to make day to day routines easier for myself and those around me."
+        description="The older I get, the more I realize how priceless knowledge is in your day-to-day life, whether it be knowledge for making money or life tricks to make everyday routines easier for myself and those around me."
       />
       <ResumeHeading
         heading="Music"
-        description="Listening to soothing music is something i can never compromise with, skimming through Youtube Musics songs charts is at times the best stress reliever that i can get my hands on."
+        description="Listening to soothing music is something I can never compromise with. Skimming through Youtube Musics songs charts is, at times, the best stress reliever on which I can get my hands."
       />
       <ResumeHeading
         heading="Personal Fitness"
-        description="Working out, Yoga, and walks in nature go hand in hand with music and is the ultimate combination to help clear my mind and get into a relaxing state."
+        description="Daily exercise, Yoga, and walks in nature go hand in hand with music and are the ultimate combination to help clear my mind and relax."
       />
     </div>,
   ];
